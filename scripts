@@ -1,0 +1,4 @@
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script src="http://quotesondesign.com/api/3.0/api-3.0.json"></script>
+<script src="http://quotesondesign.com/api/3.0/api-3.0.json?callback=my_function"></script>

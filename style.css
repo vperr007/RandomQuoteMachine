@@ -1,0 +1,40 @@
+.titler{
+  color:white; font-size:4.3vmax;
+  padding-top:6%; padding-bottom:1%;
+}
+
+#quote{
+  color:white;   font-size:4.2vmin;
+  padding:4px;
+}
+
+#author{
+  color:white;  font-size:3.0vmin;
+}
+#NewQuote{
+  color:white;
+}
+
+#NewQuote:hover, #NewQuote:visited{ 
+  color:orange ;
+}
+
+body{
+  background:url('http://i1243.photobucket.com/albums/gg557/vperr007/chile-1477188_zpsqnv6e3ei.jpg');
+  overflow:hidden;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+  height:100vh; 
+  position:relative;
+  font-family:Times New Roman;
+}
+
+button{
+  margin-top:15px;
+  border:1px black solid;
+  background-color:rgba(0,0,0,0.6);
+  color:white;
+}
+
+
+
